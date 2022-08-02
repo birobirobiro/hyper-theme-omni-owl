@@ -1,27 +1,31 @@
 {
-  "name": "hyper-omni-owl",
+  "name": "hyper-theme-omni-owl",
   "version": "0.0.1",
+  "description": "Dark theme for Hyper inspired by Omni",
   "main": "index.js",
-  "homepage": "https://github.com/birobirobiro/hyper-omni-owl",
-  "description": "A dark theme for Hyper",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/birobirobiro/hyper-omni-owl.git"
-  },
   "keywords": [
-    "hyperterm",
+    "theme",
+    "dark",
     "hyper",
-    "hyper.app",
-    "hyper omni owl",
-    "hyper theme",
-    "omni-theme"
+    "hyper-theme",
+    "color-theme",
+    "omni",
+    "omni-themes",
+    "omni-owl"
   ],
-  "author": "birobirobiro",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/birobirobiro/hyper-omni-owl/issues"
+  "author": {
+    "name": "birobirobiro",
+    "email": "birobirobiro.dev@gmail.com",
+    "url": "https://birobirobiro.dev"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/birobirobiro/hyper-omni-owl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/birobirobiro/hyper-omni-owl/issues"
   }
 }
