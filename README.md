@@ -4,14 +4,16 @@
 <img src=".github/logo.png" alt="Omni Owl Logo" width="100">
 </div>
 
-> A dark theme for [Hyper](https://hyper.is).
+<div align="center">
+<img src=".github/screenshot.png" alt="Omni Owl" >
+</div>
 
-![Screenshot](./screenshot.png)
+> A dark theme for [Hyper](https://hyper.is).
 
 ## Install
 
 ```bash
-npm i hyper-omni-owl
+hyper i hyper-theme-omni-owl
 ```
 
 ## Team
