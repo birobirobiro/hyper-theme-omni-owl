@@ -1,0 +1,21 @@
+{
+  "name": "hyper-omni-owl",
+  "version": "0.0.1",
+  "main": "index.js",
+  "homepage": "https://github.com/birobirobiro/hyper-omni-owl",
+  "description": "A dark theme for Hyper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/birobirobiro/hyper-omni-owl.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "hyper.app",
+    "hyper omni owl",
+    "hyper theme",
+    "omni-theme"
+  ],
+  "author": "birobirobiro",
+  "license": "MIT"
+}
