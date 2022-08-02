@@ -6,7 +6,7 @@
   "description": "A dark theme for Hyper",
   "repository": {
     "type": "git",
-    "url": "https://github.com/birobirobiro/hyper-omni-owl.git"
+    "url": "git+https://github.com/birobirobiro/hyper-omni-owl.git"
   },
   "keywords": [
     "hyperterm",
@@ -17,5 +17,11 @@
     "omni-theme"
   ],
   "author": "birobirobiro",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/birobirobiro/hyper-omni-owl/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
